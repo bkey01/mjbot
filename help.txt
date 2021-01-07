@@ -1,0 +1,42 @@
+#cara pasang scriptnya serta instalasi module
+ketik di termux
+git clone https://github.com/bkey2/mjbot.git
+cd mjbot
+ls
+bash install.sh
+python botmj.py
+###################################################################
+#help command
+#install module terlebih dahulu
+#masukan password
+#masukan link spoon contoh link :https://spoon.click/id_live_8952314
+#Masukan no akun kalian beserta password
+#Log in dehh
+
+#command help mj [!help]
+#mj on : Ucing siap kerja.auto sapa
+# on   : Ucing siap kerja.auto sapa
+#mj off: Ucing tidur
+#off   : ucing tidur
+#mj rehat : ucing rehat
+#fitur#
+#live_present : otomatis Stiker give
+#tanya jawab  : tanya menggunakan awalan [m atau M dan a] dan di akhiri dengan tanda tanya [?]
+contoh : mj apakah aku ganteng?
+mj : menjawab : otomatis nyaut random :(iya bisa jadi 🤣)
+#panggilan untuk mj
+contoh : [ mj atau Mj atau MJ dan woy mj atau Woy mj]
+mj : menjawab : otomatis nyaut random :(iya hadir 🤗)
+#callculator menghitung
+contoh : di awali dengan sama dengan [ = ]
+ • = 1+1
+mj : otomatis jawab : hasil 1+1 = [2]
+#keluarin mj
+mj out : otomatis keluar
+
+#fitur bonus
+#bisa deteck yang ghost
+#bisa deteck yang report (cuman gk saya kasih fitur buat yang report .. kalau mau beli aja sih ribet amat)
+#otomatis ketawa 
+contoh : wkwkwkwk
+mj     : menjawab 🤣😂🤣🤣 random wkwk🤣😂 pokonya gitu deh
